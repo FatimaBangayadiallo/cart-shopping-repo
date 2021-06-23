@@ -1,0 +1,133 @@
+    /* navbar */
+    
+    .parent-1 {
+        margin-top: 3rem;
+        background-color: #fff;
+    }
+    
+    .sizes {
+        font-weight: bold;
+    }
+    
+    .order {
+        margin-left: 14rem;
+    }
+    
+    .products {
+        margin-right: 6rem;
+    }
+    
+    .choi-se {
+        border: 0px solid white;
+    }
+    /* end of nav bar */
+    /* content */
+    
+    .boldt {
+        font-weight: 800;
+        font-size: 20px;
+    }
+    
+    .center-div {
+        text-align: center;
+    }
+    
+    hr {
+        width: 12%;
+        background-color: goldenrod;
+        height: 2px;
+    }
+    
+    h5 {
+        font-family: 'Stint Ultra Condensed', cursive;
+    }
+    
+    .boutton-bas {
+        background-color: black;
+        color: gray;
+        width: 100%;
+        border-radius: 0px;
+    }
+    
+    .boutton-haut {
+        position: absolute;
+        right: 0px;
+        background-color: black;
+        border-radius: 0px;
+        height: 30px;
+        width: 100px;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+        /*margin-left: 4rem;
+        */
+    }
+    
+    .image-1 {
+        height: 300px;
+    }
+    
+    .content-second-row {
+        margin-top: 5rem;
+    }
+    
+    .content-third-row {
+        margin-top: 5rem;
+    }
+    
+    .second-parent {
+        margin-top: 4rem;
+    }
+    
+    .hr-colonne .big-hr {
+        width: 100%;
+        color: gray;
+    }
+    
+    .row-1-first-child {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+    
+    .content-cinq-row {
+        margin-top: 2rem;
+    }
+    
+    .fils {
+        border-radius: 50%;
+        background-color: lightgray;
+        border: solid 1px white;
+        color: white;
+    }
+    
+    .div-one {
+        background-color: lightgray;
+        border-radius: 50%;
+        border: 1px solid white;
+        width: 60px;
+        height: 50px;
+        padding: .5rem;
+    }
+    
+    .p-first-row {
+        margin-left: 2rem;
+    }
+    
+    .but-1 {
+        margin-left: 2rem;
+    }
+    
+    .but-2 {
+        margin-left: .5rem;
+    }
+    /* /ff content */
+    
+    footer {
+        background-color: lightgray;
+        color: white;
+        padding: 3rem;
+        text-align: center;
+        margin-top: 2rem;
+    }
